@@ -1,0 +1,68 @@
+#logo {
+	margin-top: 200px;
+}
+
+#logo img {
+	display:block;
+	width: 275px;
+	margin: auto;
+}
+
+#searchbox {
+	display: block;
+	margin: 30px auto;
+	width: 575px;
+	height: 2.2em;
+	border: 1px solid rgb(77, 144, 254);
+}
+
+#searchbox input {
+	display: inline-block;
+	margin-left: 5px;
+	height: 2em;
+	width: 90%;
+	border: none;
+	font-size: 1em;
+}
+
+#mic {
+	float: right;
+	height: 2em;
+	width: 2em;
+	margin: 2px 2px 0px 0px;
+	background: url("microphone.png") no-repeat center;
+	background-size: contain;
+}
+
+#submit_section input {
+	border: 1px solid #FFFFFF;
+	margin: 3px;
+	background-color: rgb(245,245,245);
+	color: rgb(117,117,117);
+	padding: 10px 15px;
+	font-weight: bold;
+	font-size: 0.80em;
+}
+
+#submit_section input:hover {
+	border: 1px solid rgb(175, 175, 175);
+	color: #050505;
+}
+
+#submit_section input:active {
+	border: 1px solid rgb(77, 144, 254);
+	color: #050505;
+}
+
+#submit_section:focus {
+	border: 1px solid rgb(77, 144, 254);
+}
+
+input:focus {
+	outline:none;
+}
+
+#submit_section {
+	text-align: center;
+	margin-top: 10px;
+}
