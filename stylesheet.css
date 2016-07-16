@@ -43,7 +43,7 @@ a:hover {
 	margin-top: 0px;
 	height: 17px;
 	width: 17px;
-	background: url("grid-light.png") no-repeat center;
+	background: url("Assets/grid-light.png") no-repeat center;
 	background-size: contain;
 }
 
@@ -55,7 +55,7 @@ a:hover {
 	margin-left: 5px;
 	height: 22px;
 	width: 22px;
-	background: url("bell-light.png") no-repeat center;
+	background: url("Assets/bell-light.png") no-repeat center;
 	background-size: contain;
 }
 
@@ -66,7 +66,7 @@ a:hover {
 	margin-top: 0px;
 	height: 17px;
 	width: 17px;
-	background: url("grid-dark.png") no-repeat center;
+	background: url("Assets/grid-dark.png") no-repeat center;
 	background-size: contain;
 }
 
@@ -78,7 +78,7 @@ a:hover {
 	margin-left: 5px;
 	height: 22px;
 	width: 22px;
-	background: url("bell-dark.png") no-repeat center;
+	background: url("Assets/bell-dark.png") no-repeat center;
 	background-size: contain;
 }
 
@@ -90,7 +90,7 @@ a:hover {
 	margin-left: 1px;
 	height: 40px;
 	width: 40px;
-	background: url("circleM.png") no-repeat center;
+	background: url("Assets/circleM.png") no-repeat center;
 	background-size: contain;
 }
 
@@ -116,6 +116,14 @@ a:hover {
 	margin: 30px auto;
 	width: 583px;
 	height: 2.4em;
+	border: 1px solid rgb(217, 217, 217);
+}
+
+#searchbox:hover {
+	border: 1px solid rgb(160, 160, 160);
+}
+
+#searchbox:focus {
 	border: 1px solid rgb(77, 144, 254);
 }
 
@@ -133,7 +141,7 @@ a:hover {
 	height: 2em;
 	width: 2em;
 	margin: 2px 2px 0px 0px;
-	background: url("microphone.png") no-repeat center;
+	background: url("Assets/microphone.png") no-repeat center;
 	background-size: contain;
 }
 
