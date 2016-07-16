@@ -5,8 +5,8 @@ html {
 a {
 	text-decoration: none;
 	color: rgb(64,64,64);
-	font-family: Ariaßl, sans-serif;
-	font-size: 0.78em;
+	font-family: Arial, sans-serif;
+	font-size: 0.80em;
 }
 
 a:hover {
@@ -25,7 +25,7 @@ a:hover {
 #nav-right {
 	margin: 0px;
 	position: absolute;
-	top: 14px;
+	top: 16px;
 	right: 1px;
 	width: 257px;
 	height: 50px;
@@ -49,8 +49,8 @@ a:hover {
 
 #bell {
 	position: relative;
-	left: 2px;
-	bottom:13px;
+	left: 3px;
+	bottom:12px;
 	margin-top: 0px;
 	margin-left: 3px;
 	height: 26px;
@@ -62,7 +62,7 @@ a:hover {
 #circleM {
 	position: relative;
 	bottom:5px;
-	right: 3px;
+	right: 4px;
 	margin-top: 0px;
 	margin-left: 1px;
 	height: 40px;
