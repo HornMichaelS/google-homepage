@@ -161,7 +161,7 @@ input:focus {
 
 .footer-content li {
 	display: inline;
-	margin: 0px 15px;
+	margin: 0px 13px;
 }
 
 .footer-content li a {
@@ -174,12 +174,12 @@ input:focus {
 	float: left;
 	padding: 0px;
 	margin-top: 10px;
-	margin-left: 15px;
+	margin-left: 17px;
 }
 
 #footer-right {
 	float: right;
 	padding: 0px;
 	margin-top: 10px;
-	margin-right: 15px;
+	margin-right: 17px;
 }
